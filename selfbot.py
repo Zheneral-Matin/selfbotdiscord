@@ -30,8 +30,8 @@ cls()
 with open("./data/config.json") as f:
     config = json.load(f)
 
-TOKEN = config.get("TOKEN")
-PREFIX = config.get("PREFIX")
+TOKEN = config.get("ODE1MzE5OTY5MTMwNzQxODMw.YFOExg.-Ll_sN_C96qt0jVheERWFckN37Q")
+PREFIX = config.get(".")
 SNIPER = config.get("SNIPER")
 GW = config.get("GIVEAWAY")
 SLOT = config.get("SLOT")
